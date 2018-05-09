@@ -10,6 +10,7 @@ contrast of image I:
    
 where I is the original image, B is the structuring element, a and b are constants, ∘ indicates opening and • indicates closing.
 Apply your function to the image “Mars.jpg”.
+
 Deliverables:
 - Your code.
 - The output image with a square structuring element of size 3 x 3 when a = 1 and b = 1.
