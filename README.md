@@ -6,7 +6,7 @@ operators. One way to achieve this goal is to use the following expression to in
 contrast of image I:
 
 <p align="center"> 
-   <b>I (IncContrast) = I + a x ( I - I ∘ B) - b x ( I • B - I )</b>
+   <b><i>I (IncContrast) = I + a x ( I - I ∘ B) - b x ( I • B - I )</i></b>
 </p>
    
 where I is the original image, B is the structuring element, a and b are constants, ∘ indicates opening and • indicates closing.
