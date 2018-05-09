@@ -8,8 +8,7 @@ contrast of image I:
 
    **_I (IncContrast) = I + a x ( I - I ∘ B) - b x ( I • B - I )_**
    
-where I is the original image, B is the structuring element, a and b are constants,
- indicates opening and  indicates closing.
+where I is the original image, B is the structuring element, a and b are constants, ∘ indicates opening and • indicates closing.
 Apply your function to the image “Mars.jpg”.
 Deliverables:
 - Your code.
