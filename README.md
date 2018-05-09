@@ -5,8 +5,8 @@ Implement a function that can increase the contrast of a colored image using mor
 operators. One way to achieve this goal is to use the following expression to increase the
 contrast of image I:
 
-<p align="center"> 
-**_I (IncContrast) = I + a x ( I - I ∘ B) - b x ( I • B - I )_**
+<p align="center" style="font-weight: bold;"> 
+I (IncContrast) = I + a x ( I - I ∘ B) - b x ( I • B - I )
 </p>
    
 where I is the original image, B is the structuring element, a and b are constants, ∘ indicates opening and • indicates closing.
