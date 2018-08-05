@@ -1,5 +1,5 @@
 # RGB-Morphological-Dilation-and-Erosion
-Vision course assignment-3, Q1
+Computer Vision course assignment-3, Q1
 
 Implement a function that can increase the contrast of a colored image using morphological
 operators. One way to achieve this goal is to use the following expression to increase the
